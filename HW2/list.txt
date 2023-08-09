@@ -1,0 +1,18 @@
+ 1.       Asat         Baratfa          2
+ 2.        Can           Szula          2
+ 3.        Ali           Lovas          1
+ 4.     Oliver           Szula          2
+ 5.        Nor           Lovas          1
+ 6.       Andi           Lovas          3
+ 7.      Nosir         Baratfa          3
+ 8.      Ervin    Kigyos-patak          4
+ 9.       Vivi     Malom-telek          1
+10.       Reka          Paskom          5
+11.      Gergo    Kigyos-patak          3
+12.      Jonhy     Malom-telek          2
+13.     Camila          Paskom          2
+14.       Azik  Kaposztas-kert          3
+15.       Lora           Szula          1
+16.      Kacha           Szula          2
+17.    Tsetsen          Paskom          2
+18.      Kolya     Malom-telek          2
